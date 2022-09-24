@@ -1,3 +1,0 @@
-# 202209hackaton
-
-# test
